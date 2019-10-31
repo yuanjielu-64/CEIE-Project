@@ -1,0 +1,571 @@
+,Standardized Type,Start time,Closed time,Location,Duration,Max Lanes Closed
+0,Road Maintenance Operations,2019-02-04 10:30:00,2019-02-04 15:10:00,I-495S south @ MM 43.000,280,2.0
+1,Road Maintenance Operations,2019-02-04 22:36:00,2019-02-05 00:55:00,I-495S south @ MM 51.200,139,1.0
+2,Road Maintenance Operations,2019-02-05 21:18:00,2019-02-06 02:15:00,I-495S south @ MM 53.600,297,2.0
+3,Road Maintenance Operations,2019-02-07 10:16:00,2019-02-07 12:50:00,I-495S south @ MM 43.000,154,
+4,Road Maintenance Operations,2019-02-07 20:10:00,2019-02-08 02:50:00,I-495S south @ MM 46.200,400,1.0
+5,Road Maintenance Operations,2019-02-11 17:30:00,2019-02-11 19:30:00,I-495N north @ MM 50.000,120,
+6,Road Maintenance Operations,2019-02-13 09:13:00,2019-02-13 10:40:00,I-495N north @ MM 50.200,87,3.0
+7,Road Maintenance Operations,2019-02-14 09:04:00,2019-02-14 15:10:00,I-495S south @ MM 55.500,366,1.0
+8,Road Maintenance Operations,2019-02-14 09:15:00,2019-02-14 15:00:00,I-495S south @ MM 57.000,345,1.0
+9,Road Maintenance Operations,2019-02-14 11:12:00,2019-02-14 14:00:00,I-495S south @ MM 52.000,168,2.0
+10,Road Maintenance Operations,2019-02-14 21:38:00,2019-02-14 23:35:00,I-495S south @ MM 50.000,117,2.0
+11,Road Maintenance Operations,2019-02-15 09:09:00,2019-02-15 11:25:00,I-495S south @ MM 55.000,136,3.0
+12,Road Maintenance Operations,2019-02-18 09:15:00,2019-02-18 11:05:00,I-495N north @ MM 46.600,110,1.0
+13,Road Maintenance Operations,2019-02-18 11:30:00,2019-02-18 13:10:00,I-495S south @ MM 53.000,100,2.0
+14,Road Maintenance Operations,2019-02-18 20:08:00,2019-02-18 22:40:00,I-495S south @ MM 46.200,152,1.0
+15,Road Maintenance Operations,2019-02-21 12:45:00,2019-02-21 13:45:00,I-495S south @ MM 57.000,60,1.0
+16,Road Maintenance Operations,2019-02-21 20:10:00,2019-02-22 01:45:00,I-495N north @ MM 51.000,335,2.0
+17,Construction Work,2019-02-21 21:40:00,2019-02-22 02:50:00,I-495S south @ MM 44.400,310,1.0
+18,Road Maintenance Operations,2019-02-26 20:59:00,2019-02-26 22:35:00,I-495S south @ MM 54.000,96,2.0
+19,Road Maintenance Operations,2019-02-26 22:00:00,2019-02-27 02:15:00,I-495N north @ MM 55.600,255,2.0
+20,Road Maintenance Operations,2019-02-28 12:17:00,2019-02-28 12:50:00,I-495S south @ MM 51.000,33,1.0
+21,Bridge Maintenance Operations,2019-03-05 09:10:00,2019-03-05 15:10:00,I-495S south @ MM 48.900,360,2.0
+22,Road Maintenance Operations,2019-03-05 10:39:00,2019-03-05 12:25:00,I-495S south @ MM 49.000,106,1.0
+23,Road Maintenance Operations,2019-03-05 22:08:00,2019-03-05 22:45:00,I-495S south @ MM 52.000,37,1.0
+24,Road Maintenance Operations,2019-03-07 10:31:00,2019-03-07 12:35:00,I-495S south @ MM 50.000,124,1.0
+25,Road Maintenance Operations,2019-03-07 19:26:00,2019-03-08 02:00:00,I-495N north @ MM 44.600,394,1.0
+26,Road Maintenance Operations,2019-03-07 22:10:00,2019-03-08 01:35:00,I-495S south @ MM 53.200,205,3.0
+27,Road Maintenance Operations,2019-03-08 10:18:00,2019-03-08 11:45:00,I-495S south @ MM 54.000,87,2.0
+28,Road Maintenance Operations,2019-03-11 11:43:00,2019-03-11 15:40:00,I-495S south @ MM 57.000,237,1.0
+29,Road Maintenance Operations,2019-03-11 11:49:00,2019-03-11 15:45:00,I-495S south @ MM 44.000,236,1.0
+30,Road Maintenance Operations,2019-03-12 10:16:00,2019-03-12 14:25:00,I-495N north @ MM 46.000,249,1.0
+31,Road Maintenance Operations,2019-03-12 21:17:00,2019-03-12 22:50:00,I-495S south @ MM 47.000,93,1.0
+32,Road Maintenance Operations,2019-03-13 11:20:00,2019-03-13 14:00:00,I-495S south @ MM 57.000,160,2.0
+33,Road Maintenance Operations,2019-03-13 19:25:00,2019-03-14 04:20:00,I-495S south @ MM 42.500,535,3.0
+34,Road Maintenance Operations,2019-03-13 21:24:00,2019-03-14 02:10:00,I-495N north @ MM 55.000,286,2.0
+35,Road Maintenance Operations,2019-03-14 10:13:00,2019-03-14 12:05:00,I-495N north @ MM 47.000,112,1.0
+36,Road Maintenance Operations,2019-03-14 12:44:00,2019-03-14 14:40:00,I-495N north @ MM 52.000,116,3.0
+37,Road Maintenance Operations,2019-03-18 09:47:00,2019-03-18 10:45:00,I-495S south @ MM 44.000,58,1.0
+38,Road Maintenance Operations,2019-03-19 13:00:00,2019-03-19 14:10:00,I-495S south @ MM 54.800,70,2.0
+39,Road Maintenance Operations,2019-03-19 19:58:00,2019-03-20 04:50:00,I-495S south @ MM 42.500,532,3.0
+40,Road Maintenance Operations,2019-03-23 09:15:00,2019-03-23 10:00:00,I-495S south @ MM 54.600,45,1.0
+41,Road Maintenance Operations,2019-03-23 14:28:00,2019-03-23 16:05:00,I-495N north @ MM 47.000,97,2.0
+42,Road Maintenance Operations,2019-03-26 11:00:00,2019-03-26 14:20:00,I-495S south @ MM 46.000,200,3.0
+43,Road Construction,2019-03-27 21:30:00,2019-03-28 01:15:00,I-495N north @ MM 48.800,225,1.0
+44,Road Maintenance Operations,2019-03-27 09:35:00,2019-03-27 15:20:00,I-495N north @ MM 54.000,345,6.0
+45,Construction Work,2019-03-28 01:43:00,2019-03-28 02:15:00,I-495N north @ MM 55.000,32,1.0
+46,Road Maintenance Operations,2019-03-29 09:15:00,2019-03-29 12:05:00,I-495N north @ MM 42.400,170,1.0
+47,Road Maintenance Operations,2019-01-02 21:49:00,2019-01-03 00:00:00,I-495N north @ MM 55.000,131,3.0
+48,Road Construction,2019-01-09 07:30:00,2019-01-09 13:25:00,I-495S south @ MM 48.700,355,1.0
+49,Road Construction,2019-01-09 21:00:00,2019-01-10 02:40:00,I-495N north @ MM 48.500,340,1.0
+50,Road Maintenance Operations,2019-01-09 19:23:00,2019-01-09 23:55:00,I-495N north @ MM 55.600,272,3.0
+51,Road Maintenance Operations,2019-01-10 10:00:00,2019-01-10 13:10:00,I-495N north @ MM 52.000,190,3.0
+52,Road Maintenance Operations,2019-01-10 20:25:00,2019-01-11 03:35:00,I-495N north @ MM 55.600,430,3.0
+53,Road Maintenance Operations,2019-01-16 13:05:00,2019-01-16 15:05:00,I-495N north @ MM 52.000,120,2.0
+54,Utility Work,2019-01-16 21:00:00,2019-01-17 00:45:00,I-495N north @ MM 48.600,225,1.0
+55,Road Maintenance Operations,2019-01-23 09:27:00,2019-01-23 14:45:00,I-495S south @ MM 49.000,318,1.0
+56,Road Maintenance Operations,2019-01-31 09:20:00,2019-01-31 14:00:00,I-495N north @ MM 47.000,280,3.0
+57,Road Maintenance Operations,2019-01-31 09:25:00,2019-01-31 13:35:00,I-495N north @ MM 47.000,250,2.0
+58,Road Maintenance Operations,2019-01-31 11:02:00,2019-01-31 15:10:00,I-495S south @ MM 49.000,248,2.0
+59,Road Maintenance Operations,2019-05-03 23:00:00,2019-05-04 04:55:00,I-495S south @ MM 56.500,355,2.0
+60,Road Maintenance Operations,2019-05-01 09:33:00,2019-05-01 10:45:00,I-495S south @ MM 55.000,72,3.0
+61,Road Maintenance Operations,2019-05-01 11:30:00,2019-05-01 15:15:00,I-495N north @ MM 55.000,225,1.0
+62,Road Maintenance Operations,2019-05-01 21:51:00,2019-05-02 03:45:00,I-495N north @ MM 43.500,354,2.0
+63,Road Maintenance Operations,2019-05-02 21:07:00,2019-05-02 22:15:00,I-495N north @ MM 45.000,68,1.0
+64,Road Maintenance Operations,2019-05-02 21:30:00,2019-05-03 09:00:00,I-495S south @ MM 48.000,690,4.0
+65,Road Maintenance Operations,2019-05-03 09:44:00,2019-05-03 12:40:00,I-495N north @ MM 50.400,176,1.0
+66,Construction Work,2019-05-03 21:33:00,2019-05-03 23:15:00,I-495S south @ MM 49.000,102,3.0
+67,Road Maintenance Operations,2019-05-05 21:30:00,2019-05-06 03:25:00,I-495S south @ MM 42.400,355,1.0
+68,Road Maintenance Operations,2019-05-06 21:00:00,2019-05-06 23:20:00,I-495S south @ MM 42.300,140,3.0
+69,Construction Work,2019-05-06 21:36:00,2019-05-07 04:45:00,I-495N north @ MM 43.800,429,4.0
+70,Road Construction,2019-05-07 21:30:00,2019-05-08 05:05:00,I-495N north @ MM 48.900,455,2.0
+71,Road Maintenance Operations,2019-05-07 21:16:00,2019-05-08 05:10:00,I-495S south @ MM 43.000,474,2.0
+72,Paving Operations,2019-05-07 21:30:00,2019-05-08 00:00:00,I-495N north @ MM 43.800,150,2.0
+73,Road Maintenance Operations,2019-05-07 21:31:00,2019-05-08 04:20:00,I-495S south @ MM 49.000,409,3.0
+74,Construction Work,2019-05-07 21:38:00,2019-05-08 05:10:00,I-495N north @ MM 48.900,452,2.0
+75,Road Maintenance Operations,2019-05-08 00:00:00,2019-05-08 05:10:00,I-495N north @ MM 42.300,310,2.0
+76,Road Maintenance Operations,2019-05-08 21:02:00,2019-05-09 04:55:00,I-495S south @ MM 49.000,473,4.0
+77,Paving Operations,2019-05-09 21:30:00,2019-05-10 05:10:00,I-495S south @ MM 49.000,460,3.0
+78,Construction Work,2019-05-09 23:02:00,2019-05-10 04:55:00,I-495N north @ MM 43.500,353,1.0
+79,Road Maintenance Operations,2019-05-10 09:33:00,2019-05-10 12:20:00,I-495S south @ MM 49.000,167,1.0
+80,Road Maintenance Operations,2019-05-10 23:09:00,2019-05-11 04:55:00,I-495S south @ MM 49.000,346,2.0
+81,Construction Work,2019-05-13 21:26:00,2019-05-14 03:45:00,I-495S south @ MM 43.600,379,1.0
+82,Construction Work,2019-05-13 21:32:00,2019-05-14 04:55:00,I-495S south @ MM 48.000,443,3.0
+83,Road Maintenance Operations,2019-05-14 21:00:00,2019-05-15 05:10:00,I-495S south @ MM 50.000,490,2.0
+84,Road Maintenance Operations,2019-05-15 11:43:00,2019-05-15 14:35:00,I-495S south @ MM 44.700,172,1.0
+85,Road Maintenance Operations,2019-05-15 14:43:00,2019-05-15 16:25:00,I-495S south @ MM 46.100,102,2.0
+86,Road Maintenance Operations,2019-05-15 20:53:00,2019-05-16 05:10:00,I-495S south @ MM 49.000,497,3.0
+87,Construction Work,2019-05-15 21:27:00,2019-05-16 04:35:00,I-495S south @ MM 43.000,428,2.0
+88,Construction Work,2019-05-16 21:22:00,2019-05-16 23:35:00,I-495S south @ MM 43.100,133,2.0
+89,Road Maintenance Operations,2019-05-17 21:00:00,2019-05-18 06:15:00,I-495S south @ MM 50.000,555,3.0
+90,Paving Operations,2019-05-19 21:11:00,2019-05-20 05:05:00,I-495S south @ MM 53.000,474,3.0
+91,Construction Work,2019-05-19 21:22:00,2019-05-20 02:30:00,I-495S south @ MM 43.200,308,2.0
+92,Road Maintenance Operations,2019-05-20 21:23:00,2019-05-21 04:20:00,I-495N north @ MM 45.200,417,2.0
+93,Paving Operations,2019-05-21 23:58:00,2019-05-22 05:00:00,I-495S south @ MM 50.000,302,3.0
+94,Road Maintenance Operations,2019-05-22 10:00:00,2019-05-22 13:55:00,I-495N north @ MM 51.800,235,1.0
+95,Road Maintenance Operations,2019-05-22 21:30:00,2019-05-23 04:35:00,I-495S south @ MM 42.300,425,1.0
+96,Road Maintenance Operations,2019-05-22 21:45:00,2019-05-22 22:30:00,I-495S south @ MM 49.000,45,1.0
+97,Road Maintenance Operations,2019-05-23 21:30:00,2019-05-24 04:40:00,I-495S south @ MM 42.500,430,1.0
+98,Bridge Maintenance Operations,2019-05-28 21:39:00,2019-05-29 04:15:00,I-495S south @ MM 42.300,396,1.0
+99,Road Maintenance Operations,2019-05-29 22:55:00,2019-05-30 04:25:00,I-495N north @ MM 43.300,330,2.0
+100,Paving Operations,2019-05-30 00:01:00,2019-05-30 05:15:00,I-495S south @ MM 49.000,314,4.0
+101,Road Construction,2019-05-31 10:00:00,2019-05-31 12:25:00,I-495N north @ MM 48.900,145,1.0
+102,Road Maintenance Operations,2019-05-30 21:56:00,2019-05-31 05:20:00,I-495N north @ MM 45.200,444,2.0
+103,Road Maintenance Operations,2019-05-31 11:44:00,2019-05-31 12:55:00,I-495N north @ MM 50.800,71,3.0
+104,Construction Work,2019-04-01 22:00:00,2019-04-02 05:00:00,I-495S south @ MM 45.600,420,2.0
+105,Road Maintenance Operations,2019-04-02 12:00:00,2019-04-02 13:40:00,I-495S south @ MM 54.600,100,3.0
+106,Road Maintenance Operations,2019-04-03 21:28:00,2019-04-04 05:20:00,I-495N north @ MM 44.600,472,2.0
+107,Road Maintenance Operations,2019-04-05 09:51:00,2019-04-05 11:35:00,I-495S south @ MM 53.300,104,2.0
+108,Road Maintenance Operations,2019-04-05 13:30:00,2019-04-05 14:45:00,I-495N north @ MM 51.000,75,2.0
+109,Construction Work,2019-04-08 21:30:00,2019-04-09 04:35:00,I-495N north @ MM 42.400,425,2.0
+110,Construction Work,2019-04-08 22:00:00,2019-04-09 04:10:00,I-495S south @ MM 51.000,370,2.0
+111,Road Construction,2019-04-10 21:30:00,2019-04-11 05:05:00,I-495S south @ MM 48.400,455,1.0
+112,Road Maintenance Operations,2019-04-09 20:48:00,2019-04-10 05:15:00,I-495N north @ MM 55.600,507,3.0
+113,Construction Work,2019-04-09 21:27:00,2019-04-10 01:15:00,I-495N north @ MM 43.000,228,1.0
+114,Road Maintenance Operations,2019-04-10 10:31:00,2019-04-10 15:35:00,I-495S south @ MM 47.500,304,1.0
+115,Road Maintenance Operations,2019-04-16 09:01:00,2019-04-16 14:20:00,I-495S south @ MM 43.000,319,1.0
+116,Road Maintenance Operations,2019-04-10 21:00:00,2019-04-11 04:50:00,I-495S south @ MM 42.300,470,2.0
+117,Road Construction,2019-04-15 21:30:00,2019-04-16 05:10:00,I-495S south @ MM 48.800,460,1.0
+118,Road Construction,2019-04-16 21:30:00,2019-04-17 05:00:00,I-495N north @ MM 48.400,450,1.0
+119,Paving Operations,2019-04-15 21:46:00,2019-04-16 04:00:00,I-495S south @ MM 51.000,374,3.0
+120,Construction Work,2019-04-15 22:01:00,2019-04-16 04:10:00,I-495S south @ MM 45.500,369,1.0
+121,Road Construction,2019-04-17 21:30:00,2019-04-18 05:15:00,I-495N north @ MM 48.400,465,1.0
+122,Road Maintenance Operations,2019-04-16 20:46:00,2019-04-17 01:05:00,I-495N north @ MM 57.000,259,4.0
+123,Construction Work,2019-04-16 21:41:00,2019-04-17 04:20:00,I-495S south @ MM 42.300,399,1.0
+124,Road Construction,2019-04-18 21:30:00,2019-04-19 04:45:00,I-495N north @ MM 48.400,435,1.0
+125,Paving Operations,2019-04-17 20:49:00,2019-04-18 05:05:00,I-495S south @ MM 51.000,496,2.0
+126,Road Maintenance Operations,2019-04-17 21:00:00,2019-04-18 04:35:00,I-495N north @ MM 45.200,455,2.0
+127,Paving Operations,2019-04-17 21:30:00,2019-04-18 04:05:00,I-495S south @ MM 51.000,395,3.0
+128,Construction Work,2019-04-17 22:58:00,2019-04-17 23:35:00,I-495N north @ MM 49.000,37,
+129,Construction Work,2019-04-18 21:04:00,2019-04-19 04:30:00,I-495S south @ MM 51.000,446,4.0
+130,Construction Work,2019-04-18 21:25:00,2019-04-19 04:55:00,I-495N north @ MM 45.200,450,2.0
+131,Road Maintenance Operations,2019-04-18 21:30:00,2019-04-18 22:40:00,I-495S south @ MM 42.500,70,2.0
+132,Road Maintenance Operations,2019-04-20 12:45:00,2019-04-20 16:30:00,I-495S south @ MM 47.000,225,2.0
+133,Road Construction,2019-04-22 22:00:00,2019-04-23 05:50:00,I-495N north @ MM 48.600,470,2.0
+134,Road Marking Operations,2019-04-28 22:00:00,2019-04-28 23:45:00,I-495S south @ MM 56.400,105,2.0
+135,Road Construction,2019-04-23 21:21:00,2019-04-24 03:35:00,I-495N north @ MM 48.900,374,1.0
+136,Road Maintenance Operations,2019-04-23 21:24:00,2019-04-24 04:20:00,I-495N north @ MM 44.500,416,2.0
+137,Road Maintenance Operations,2019-04-24 09:30:00,2019-04-24 14:30:00,I-495S south @ MM 45.600,300,1.0
+138,Construction Work,2019-04-23 21:40:00,2019-04-23 22:15:00,I-495S south @ MM 52.000,35,4.0
+139,Road Maintenance Operations,2019-04-24 11:15:00,2019-04-24 12:40:00,I-495N north @ MM 48.000,85,1.0
+140,Road Maintenance Operations,2019-04-24 22:22:00,2019-04-25 04:00:00,I-495S south @ MM 52.000,338,3.0
+141,Road Maintenance Operations,2019-04-24 23:11:00,2019-04-25 04:35:00,I-495N north @ MM 44.800,324,2.0
+142,Bridge Maintenance Operations,2019-04-25 09:16:00,2019-04-25 13:40:00,I-495N north @ MM 57.700,264,1.0
+143,Road Maintenance Operations,2019-04-25 22:00:00,2019-04-26 04:05:00,I-495S south @ MM 52.000,365,3.0
+144,Road Maintenance Operations,2019-04-26 11:04:00,2019-04-26 11:45:00,I-495S south @ MM 44.800,41,1.0
+145,Road Maintenance Operations,2019-04-26 13:47:00,2019-04-26 15:20:00,I-495S south @ MM 49.000,93,2.0
+146,Road Maintenance Operations,2019-04-26 21:30:00,2019-04-27 04:20:00,I-495S south @ MM 52.000,410,4.0
+147,Construction Work,2019-04-27 21:01:00,2019-04-28 01:35:00,I-495S south @ MM 48.400,274,1.0
+148,Construction Work,2019-04-28 21:32:00,2019-04-29 04:40:00,I-495N north @ MM 42.600,428,2.0
+149,Paving Operations,2019-04-29 02:01:00,2019-04-29 03:00:00,I-495S south @ MM 43.000,59,
+150,Road Construction,2019-04-30 23:45:00,2019-05-01 03:35:00,I-495S south @ MM 57.600,230,1.0
+151,Road Construction,2019-06-03 21:30:00,2019-06-03 23:10:00,I-495S south @ MM 48.900,100,2.0
+152,Road Construction,2019-06-05 10:00:00,2019-06-05 14:40:00,I-495N north @ MM 48.900,280,1.0
+153,Road Construction,2019-06-05 21:30:00,2019-06-06 04:30:00,I-495S south @ MM 48.400,420,2.0
+154,Road Maintenance Operations,2019-06-04 22:17:00,2019-06-05 05:50:00,I-495N north @ MM 50.200,453,
+155,Construction Work,2019-06-05 01:43:00,2019-06-05 05:55:00,I-495S south @ MM 48.400,252,3.0
+156,Paving Operations,2019-06-05 01:48:00,2019-06-05 05:50:00,I-495S south @ MM 52.000,242,4.0
+157,Road Construction,2019-06-06 21:00:00,2019-06-07 05:05:00,I-495S south @ MM 48.900,485,2.0
+158,Road Construction,2019-06-07 22:00:00,2019-06-08 05:30:00,I-495S south @ MM 48.400,450,2.0
+159,Paving Operations,2019-06-06 22:00:00,2019-06-07 05:05:00,I-495N north @ MM 56.000,425,3.0
+160,Road Construction,2019-06-10 21:30:00,2019-06-10 22:30:00,I-495S south @ MM 48.400,60,2.0
+161,Paving Operations,2019-06-07 20:45:00,2019-06-08 05:30:00,I-495N north @ MM 56.000,525,4.0
+162,Road Maintenance Operations,2019-06-11 10:32:00,2019-06-11 14:15:00,I-495S south @ MM 42.300,223,2.0
+163,Road Maintenance Operations,2019-06-11 21:01:00,2019-06-11 21:50:00,I-495S south @ MM 51.000,49,2.0
+164,Road Construction,2019-06-13 21:30:00,2019-06-14 06:15:00,I-495S south @ MM 48.400,525,2.0
+165,Road Maintenance Operations,2019-06-13 21:05:00,2019-06-14 04:50:00,I-495S south @ MM 43.300,465,2.0
+166,Road Maintenance Operations,2019-06-14 15:31:00,2019-06-14 18:35:00,I-495S south @ MM 50.000,184,1.0
+167,Road Construction,2019-06-17 21:30:00,2019-06-18 04:10:00,I-495S south @ MM 48.400,400,2.0
+168,Road Construction,2019-06-16 21:15:00,2019-06-17 04:30:00,I-495S south @ MM 43.300,435,2.0
+169,Construction Work,2019-06-17 22:00:00,2019-06-18 04:05:00,I-495S south @ MM 45.600,365,2.0
+170,Road Construction,2019-06-18 21:30:00,2019-06-19 03:05:00,I-495S south @ MM 48.400,335,2.0
+171,Construction Work,2019-06-17 23:30:00,2019-06-18 04:15:00,I-495N north @ MM 43.000,285,1.0
+172,Bridge Maintenance Operations,2019-06-18 09:11:00,2019-06-21 15:10:00,I-495S south @ MM 57.600,4679,1.0
+173,Road Maintenance Operations,2019-06-18 10:57:00,2019-06-18 15:30:00,I-495N north @ MM 52.000,273,1.0
+174,Road Maintenance Operations,2019-06-19 09:05:00,2019-06-19 15:30:00,I-495S south @ MM 51.600,385,1.0
+175,Paving Operations,2019-06-19 09:15:00,2019-06-19 15:20:00,I-495N north @ MM 48.900,365,1.0
+176,Road Construction,2019-06-20 10:00:00,2019-06-20 12:15:00,I-495S south @ MM 48.700,135,1.0
+177,Construction Work,2019-06-24 22:00:00,2019-06-25 05:10:00,I-495S south @ MM 45.600,430,2.0
+178,Road Construction,2019-06-24 22:00:00,2019-06-25 05:10:00,I-495N north @ MM 48.900,430,1.0
+179,Road Construction,2019-06-25 22:00:00,2019-06-26 04:45:00,I-495N north @ MM 48.900,405,1.0
+180,Road Construction,2019-06-26 22:00:00,2019-06-26 22:45:00,I-495N north @ MM 48.900,45,1.0
+181,Road Maintenance Operations,2019-06-25 21:13:00,2019-06-26 00:00:00,I-495N north @ MM 50.000,167,2.0
+182,Road Maintenance Operations,2019-06-25 21:31:00,2019-06-26 05:05:00,I-495N north @ MM 46.000,454,1.0
+183,Road Construction,2019-06-30 22:00:00,2019-07-01 05:25:00,I-495N north @ MM 48.900,445,1.0
+184,Road Maintenance Operations,2019-06-30 21:30:00,2019-07-01 02:55:00,I-495N north @ MM 44.200,325,2.0
+185,Paving Operations,2019-06-30 22:03:00,2019-07-01 04:25:00,I-495N north @ MM 53.000,382,3.0
+186,Road Construction,2019-02-04 21:30:00,2019-02-05 04:50:00,I-66E east @ MM 67.000,440,2.0
+187,Road Maintenance Operations,2019-02-04 20:14:00,2019-02-05 03:10:00,I-66E east @ MM 68.000,416,3.0
+188,Road Construction,2019-02-02 21:30:00,2019-02-03 04:35:00,I-66W west @ MM 62.000,425,2.0
+189,Road Construction,2019-02-04 07:30:00,2019-02-04 13:50:00,I-66W west @ MM 64.900,380,1.0
+190,Road Construction,2019-02-04 11:14:00,2019-02-04 15:45:00,I-66E east @ MM 61.200,271,1.0
+191,Road Construction,2019-02-05 08:00:00,2019-02-05 12:55:00,I-66W west @ MM 56.000,295,1.0
+192,Road Maintenance Operations,2019-02-04 22:30:00,2019-02-05 04:50:00,I-66E east @ MM 74.500,380,1.0
+193,Road Construction,2019-02-06 09:00:00,2019-02-06 13:20:00,I-66W west @ MM 66.000,260,2.0
+194,Road Construction,2019-02-06 21:00:00,2019-02-07 02:05:00,I-66W west @ MM 66.000,305,2.0
+195,Road Construction,2019-02-07 08:00:00,2019-02-07 13:05:00,I-66E east @ MM 64.200,305,1.0
+196,Road Maintenance Operations,2019-02-07 09:57:00,2019-02-07 15:10:00,I-66E east @ MM 69.000,313,1.0
+197,Paving Operations,2019-02-07 12:37:00,2019-02-07 14:50:00,I-66E east @ MM 70.500,133,2.0
+198,Road Maintenance Operations,2019-02-07 21:32:00,2019-02-07 22:20:00,I-66E east @ MM 74.000,48,1.0
+199,Road Construction,2019-02-18 21:30:00,2019-02-19 01:20:00,I-66E east @ MM 67.000,230,2.0
+200,Road Maintenance Operations,2019-02-08 10:00:00,2019-02-08 15:05:00,I-66E east @ MM 68.000,305,1.0
+201,Road Construction,2019-02-11 09:00:00,2019-02-11 11:05:00,I-66W west @ MM 64.900,125,1.0
+202,Road Construction,2019-02-11 09:30:00,2019-02-11 13:35:00,I-66E east @ MM 63.400,245,1.0
+203,Road Maintenance Operations,2019-02-08 23:36:00,2019-02-09 04:50:00,I-66W west @ MM 53.000,314,
+204,Road Maintenance Operations,2019-02-12 11:22:00,2019-02-12 12:25:00,I-66E east @ MM 70.000,63,2.0
+205,Road Construction,2019-02-13 09:00:00,2019-02-13 14:10:00,I-66W west @ MM 64.900,310,1.0
+206,Road Construction,2019-02-13 20:00:00,2019-02-14 03:35:00,I-66E east @ MM 55.600,455,2.0
+207,Road Construction,2019-02-14 09:00:00,2019-02-14 15:30:00,I-66E east @ MM 63.400,390,2.0
+208,Road Construction,2019-02-15 21:00:00,2019-02-16 07:05:00,I-66W west @ MM 63.900,605,4.0
+209,Road Construction,2019-02-16 21:00:00,2019-02-17 06:05:00,I-66W west @ MM 63.400,545,4.0
+210,Road Maintenance Operations,2019-02-18 11:59:00,2019-02-18 14:05:00,I-66E east @ MM 69.000,126,1.0
+211,Road Maintenance Operations,2019-02-18 13:30:00,2019-02-18 14:05:00,I-66W west @ MM 70.000,35,1.0
+212,Road Maintenance Operations,2019-02-19 09:01:00,2019-02-19 15:05:00,I-66W west @ MM 73.000,364,1.0
+213,Road Construction,2019-02-21 11:00:00,2019-02-21 17:55:00,I-66E east @ MM 56.700,415,1.0
+214,Road Maintenance Operations,2019-02-22 18:35:00,2019-02-22 20:25:00,I-66E east @ MM 70.000,110,2.0
+215,Road Construction,2019-02-25 09:00:00,2019-02-25 13:50:00,I-66W west @ MM 66.000,290,
+216,Road Construction,2019-02-25 11:00:00,2019-02-25 13:50:00,I-66E east @ MM 63.400,170,1.0
+217,Road Construction,2019-02-25 08:55:00,2019-02-25 14:35:00,I-66W west @ MM 64.700,340,1.0
+218,Road Construction,2019-02-25 22:00:00,2019-02-26 05:05:00,I-66E east @ MM 59.100,425,2.0
+219,Road Construction,2019-02-26 09:00:00,2019-02-26 13:05:00,I-66W west @ MM 66.000,245,
+220,Road Construction,2019-02-26 21:30:00,2019-02-27 04:50:00,I-66W west @ MM 61.100,440,1.0
+221,Road Construction,2019-02-27 09:00:00,2019-02-27 14:10:00,I-66W west @ MM 66.000,310,
+222,Road Maintenance Operations,2019-02-27 10:00:00,2019-02-27 15:05:00,I-66E east @ MM 72.700,305,2.0
+223,Road Maintenance Operations,2019-02-27 10:25:00,2019-02-27 14:10:00,I-66W west @ MM 56.600,225,1.0
+224,Road Maintenance Operations,2019-02-27 21:30:00,2019-02-28 01:15:00,I-66E east @ MM 68.000,225,4.0
+225,Road Construction,2019-02-27 21:30:00,2019-02-28 04:40:00,I-66W west @ MM 61.100,430,1.0
+226,Road Construction,2019-02-28 09:00:00,2019-02-28 14:05:00,I-66W west @ MM 66.000,305,
+227,Road Maintenance Operations,2019-02-28 09:08:00,2019-02-28 11:50:00,I-66W west @ MM 73.000,162,1.0
+228,Road Maintenance Operations,2019-02-28 13:30:00,2019-02-28 16:05:00,I-66W west @ MM 69.300,155,1.0
+229,Road Construction,2019-03-04 21:30:00,2019-03-05 05:05:00,I-66W west @ MM 64.000,455,1.0
+230,Road Construction,2019-03-05 09:00:00,2019-03-05 14:15:00,I-66W west @ MM 66.000,315,
+231,Road Maintenance Operations,2019-03-05 09:05:00,2019-03-05 13:10:00,I-66W west @ MM 69.000,245,1.0
+232,Road Construction,2019-03-05 21:30:00,2019-03-05 23:55:00,I-66W west @ MM 64.000,145,1.0
+233,Road Construction,2019-03-06 09:00:00,2019-03-06 13:30:00,I-66W west @ MM 66.000,270,
+234,Road Construction,2019-03-06 10:00:00,2019-03-06 15:00:00,I-66E east @ MM 56.900,300,1.0
+235,Road Construction,2019-03-07 09:00:00,2019-03-07 13:10:00,I-66W west @ MM 66.000,250,
+236,Road Maintenance Operations,2019-03-06 19:44:00,2019-03-06 23:35:00,I-66E east @ MM 56.100,231,4.0
+237,Road Maintenance Operations,2019-03-06 21:32:00,2019-03-07 05:15:00,I-66E east @ MM 60.000,463,2.0
+238,Bridge Maintenance Operations,2019-03-11 21:30:00,2019-03-12 05:05:00,I-66E east @ MM 68.900,455,2.0
+239,Road Construction,2019-03-10 21:00:00,2019-03-11 04:45:00,I-66W west @ MM 53.400,465,2.0
+240,Road Maintenance Operations,2019-03-10 21:23:00,2019-03-11 02:00:00,I-66E east @ MM 67.900,277,2.0
+241,Road Maintenance Operations,2019-03-10 19:42:00,2019-03-10 22:15:00,I-66W west @ MM 56.600,153,3.0
+242,Road Construction,2019-03-12 09:00:00,2019-03-12 13:20:00,I-66W west @ MM 66.000,260,
+243,Construction Work,2019-03-11 21:44:00,2019-03-12 01:10:00,I-66E east @ MM 74.000,206,2.0
+244,Road Construction,2019-03-13 09:00:00,2019-03-13 14:05:00,I-66W west @ MM 66.000,305,
+245,Bridge Maintenance Operations,2019-03-12 21:34:00,2019-03-13 04:10:00,I-66E east @ MM 74.700,396,2.0
+246,Road Construction,2019-03-14 09:00:00,2019-03-14 14:05:00,I-66W west @ MM 66.000,305,
+247,Road Construction,2019-03-14 20:00:00,2019-03-15 04:55:00,I-66W west @ MM 53.000,535,2.0
+248,Road Maintenance Operations,2019-03-13 21:53:00,2019-03-14 03:10:00,I-66W west @ MM 75.100,317,2.0
+249,Road Maintenance Operations,2019-03-14 10:19:00,2019-03-14 15:00:00,I-66E east @ MM 62.000,281,1.0
+250,Road Maintenance Operations,2019-03-14 10:30:00,2019-03-14 12:45:00,I-66E east @ MM 68.200,135,1.0
+251,Road Construction,2019-03-15 21:30:00,2019-03-15 22:50:00,I-66W west @ MM 52.300,80,2.0
+252,Road Maintenance Operations,2019-03-14 20:01:00,2019-03-15 04:20:00,I-66W west @ MM 56.600,499,3.0
+253,Road Maintenance Operations,2019-03-17 21:17:00,2019-03-18 04:30:00,I-66E east @ MM 53.000,433,
+254,Construction Work,2019-03-18 21:30:00,2019-03-19 05:10:00,I-66E east @ MM 68.000,460,2.0
+255,Road Construction,2019-03-19 21:30:00,2019-03-20 04:10:00,I-66W west @ MM 64.800,400,3.0
+256,Road Maintenance Operations,2019-03-18 21:09:00,2019-03-19 04:15:00,I-66E east @ MM 63.400,426,2.0
+257,Road Maintenance Operations,2019-03-18 21:44:00,2019-03-19 03:45:00,I-66W west @ MM 52.000,361,
+258,Road Construction,2019-03-20 10:00:00,2019-03-20 16:30:00,I-66E east @ MM 67.000,390,1.0
+259,Road Maintenance Operations,2019-03-19 21:20:00,2019-03-20 03:15:00,I-66E east @ MM 70.000,355,2.0
+260,Road Maintenance Operations,2019-03-19 21:04:00,2019-03-20 04:50:00,I-66E east @ MM 55.000,466,1.0
+261,Road Construction,2019-03-20 09:33:00,2019-03-20 10:10:00,I-66E east @ MM 67.000,37,1.0
+262,Road Maintenance Operations,2019-03-20 21:12:00,2019-03-21 03:00:00,I-66E east @ MM 57.000,348,2.0
+263,Road Maintenance Operations,2019-03-22 12:41:00,2019-03-22 13:30:00,I-66E east @ MM 52.600,49,1.0
+264,Road Maintenance Operations,2019-03-24 22:29:00,2019-03-25 04:50:00,I-66E east @ MM 74.000,381,2.0
+265,Road Maintenance Operations,2019-03-24 22:50:00,2019-03-25 03:50:00,I-66E east @ MM 67.800,300,1.0
+266,Road Construction,2019-03-26 21:30:00,2019-03-27 04:50:00,I-66W west @ MM 62.700,440,2.0
+267,Road Construction,2019-03-27 10:33:00,2019-03-27 15:20:00,I-66E east @ MM 62.100,287,2.0
+268,Bridge Maintenance Operations,2019-03-26 21:34:00,2019-03-27 04:55:00,I-66E east @ MM 74.000,441,1.0
+269,Road Construction,2019-03-28 21:30:00,2019-03-29 10:15:00,I-66E east @ MM 68.000,765,2.0
+270,Road Maintenance Operations,2019-03-27 20:45:00,2019-03-28 04:55:00,I-66E east @ MM 60.000,490,1.0
+271,Road Maintenance Operations,2019-03-27 22:15:00,2019-03-28 04:35:00,I-66E east @ MM 74.700,380,2.0
+272,Bridge Maintenance Operations,2019-03-29 21:33:00,2019-03-30 05:05:00,I-66E east @ MM 73.900,452,
+273,Construction Work,2019-03-30 21:40:00,2019-03-31 05:00:00,I-66E east @ MM 74.000,440,1.0
+274,Road Construction,2019-01-02 12:00:00,2019-01-02 14:05:00,I-66W west @ MM 66.000,125,4.0
+275,Road Construction,2019-01-02 21:00:00,2019-01-03 00:15:00,I-66E east @ MM 62.000,195,2.0
+276,Road Construction,2019-01-02 21:30:00,2019-01-03 01:40:00,I-66E east @ MM 64.000,250,2.0
+277,Bridge Maintenance Operations,2019-01-09 08:00:00,2019-01-09 16:15:00,I-66E east @ MM 66.200,495,3.0
+278,Road Maintenance Operations,2019-01-02 19:44:00,2019-01-03 02:30:00,I-66W west @ MM 75.100,406,2.0
+279,Road Maintenance Operations,2019-01-03 21:25:00,2019-01-03 22:50:00,I-66E east @ MM 68.200,85,2.0
+280,Road Maintenance Operations,2019-01-03 11:32:00,2019-01-03 14:00:00,I-66E east @ MM 66.400,148,1.0
+281,Bridge Maintenance Operations,2019-01-03 23:16:00,2019-01-04 01:15:00,I-66E east @ MM 71.000,119,2.0
+282,Road Construction,2019-01-06 22:00:00,2019-01-07 04:55:00,I-66E east @ MM 63.500,415,2.0
+283,Road Construction,2019-01-06 00:00:00,2019-01-06 02:40:00,I-66E east @ MM 52.000,160,3.0
+284,Road Construction,2019-01-07 12:30:00,2019-01-07 15:35:00,I-66E east @ MM 56.600,185,1.0
+285,Road Construction,2019-01-07 22:00:00,2019-01-08 01:05:00,I-66E east @ MM 61.800,185,1.0
+286,Road Construction,2019-01-10 09:00:00,2019-01-10 15:10:00,I-66E east @ MM 59.600,370,1.0
+287,Road Maintenance Operations,2019-01-11 21:53:00,2019-01-12 00:40:00,I-66E east @ MM 67.000,167,2.0
+288,Road Construction,2019-01-16 21:30:00,2019-01-17 01:25:00,I-66W west @ MM 64.900,235,2.0
+289,Construction Work,2019-01-15 22:00:00,2019-01-15 23:35:00,I-66W west @ MM 55.000,95,1.0
+290,Road Maintenance Operations,2019-01-16 09:39:00,2019-01-16 15:30:00,I-66E east @ MM 69.000,351,2.0
+291,Road Construction,2019-01-16 11:02:00,2019-01-16 15:00:00,I-66E east @ MM 64.600,238,1.0
+292,Road Maintenance Operations,2019-01-16 11:38:00,2019-01-16 12:50:00,I-66W west @ MM 75.100,72,
+293,Road Construction,2019-01-17 10:33:00,2019-01-17 15:05:00,I-66W west @ MM 66.000,272,1.0
+294,Road Maintenance Operations,2019-01-22 21:27:00,2019-01-23 00:35:00,I-66E east @ MM 69.000,188,2.0
+295,Road Maintenance Operations,2019-01-22 20:35:00,2019-01-23 02:05:00,I-66E east @ MM 60.000,330,
+296,Road Construction,2019-01-23 10:30:00,2019-01-23 13:10:00,I-66W west @ MM 62.000,160,1.0
+297,Road Construction,2019-01-24 09:00:00,2019-01-24 09:55:00,I-66W west @ MM 64.400,55,1.0
+298,Road Construction,2019-01-25 21:00:00,2019-01-26 02:40:00,I-66W west @ MM 64.600,340,3.0
+299,Road Maintenance Operations,2019-01-24 21:29:00,2019-01-25 00:15:00,I-66E east @ MM 66.000,166,2.0
+300,Road Construction,2019-01-26 21:06:00,2019-01-27 05:10:00,I-66W west @ MM 64.900,484,3.0
+301,Road Construction,2019-01-26 21:30:00,2019-01-27 05:10:00,I-66E east @ MM 63.200,460,3.0
+302,Road Maintenance Operations,2019-01-27 08:26:00,2019-01-27 11:30:00,I-66E east @ MM 68.000,184,1.0
+303,Road Construction,2019-01-29 11:00:00,2019-01-29 13:46:00,I-66E east @ MM 62.800,166,1.0
+304,Road Construction,2019-01-30 11:00:00,2019-01-30 15:35:00,I-66E east @ MM 62.800,275,1.0
+305,Road Maintenance Operations,2019-01-30 13:26:00,2019-01-30 14:30:00,I-66E east @ MM 69.000,64,1.0
+306,Road Construction,2019-01-31 08:40:00,2019-01-31 16:05:00,I-66E east @ MM 62.800,445,1.0
+307,Road Construction,2019-05-01 21:30:00,2019-05-02 03:50:00,I-66W west @ MM 64.900,380,3.0
+308,Road Maintenance Operations,2019-05-01 10:52:00,2019-05-01 14:45:00,I-66E east @ MM 67.500,233,1.0
+309,Road Construction,2019-05-02 07:00:00,2019-05-02 14:15:00,I-66W west @ MM 60.400,435,1.0
+310,Road Construction,2019-05-02 09:00:00,2019-05-02 11:15:00,I-66W west @ MM 66.000,135,
+311,Road Construction,2019-05-02 21:30:00,2019-05-03 09:00:00,I-66W west @ MM 64.700,690,2.0
+312,Bridge Maintenance Operations,2019-05-02 22:22:00,2019-05-03 09:00:00,I-66W west @ MM 75.000,638,1.0
+313,Road Maintenance Operations,2019-05-05 16:00:00,2019-05-06 09:50:00,I-66E east @ MM 69.000,1070,
+314,Road Construction,2019-05-07 09:00:00,2019-05-07 14:05:00,I-66W west @ MM 66.000,305,1.0
+315,Road Construction,2019-05-08 09:00:00,2019-05-08 16:50:00,I-66E east @ MM 59.000,470,1.0
+316,Road Construction,2019-05-09 09:00:00,2019-05-09 11:35:00,I-66W west @ MM 66.000,155,
+317,Road Construction,2019-05-09 10:47:00,2019-05-09 15:30:00,I-66E east @ MM 61.100,283,1.0
+318,Road Maintenance Operations,2019-05-08 21:53:00,2019-05-09 01:05:00,I-66E east @ MM 55.000,192,1.0
+319,Road Construction,2019-05-09 21:15:00,2019-05-09 21:55:00,I-66E east @ MM 60.700,40,1.0
+320,Road Maintenance Operations,2019-05-09 21:00:00,2019-05-10 05:10:00,I-66W west @ MM 58.900,490,2.0
+321,Road Maintenance Operations,2019-05-10 10:36:00,2019-05-10 12:40:00,I-66W west @ MM 55.000,124,
+322,Road Construction,2019-05-13 21:30:00,2019-05-13 23:05:00,I-66W west @ MM 57.100,95,3.0
+323,Road Construction,2019-05-13 10:46:00,2019-05-13 21:45:00,I-66E east @ MM 67.900,659,4.0
+324,Road Construction,2019-05-14 09:00:00,2019-05-14 14:40:00,I-66W west @ MM 66.000,340,
+325,Road Construction,2019-05-14 21:30:00,2019-05-15 05:00:00,I-66W west @ MM 59.000,450,3.0
+326,Road Maintenance Operations,2019-05-13 22:00:00,2019-05-14 00:55:00,I-66E east @ MM 67.900,175,1.0
+327,Road Construction,2019-05-15 21:30:00,2019-05-16 04:10:00,I-66W west @ MM 58.400,400,2.0
+328,Road Construction,2019-05-16 09:30:00,2019-05-16 15:35:00,I-66E east @ MM 53.600,365,1.0
+329,Road Construction,2019-05-16 21:30:00,2019-05-17 05:20:00,I-66W west @ MM 63.600,470,3.0
+330,Road Construction,2019-05-17 21:30:00,2019-05-18 06:00:00,I-66W west @ MM 58.400,510,2.0
+331,Road Maintenance Operations,2019-05-17 09:54:00,2019-05-17 11:35:00,I-66W west @ MM 55.500,101,
+332,Road Maintenance Operations,2019-05-17 13:01:00,2019-05-17 13:35:00,I-66E east @ MM 68.500,34,1.0
+333,Road Construction,2019-05-19 20:00:00,2019-05-20 04:40:00,I-66W west @ MM 57.100,520,3.0
+334,Road Construction,2019-05-19 10:00:00,2019-05-20 11:30:00,I-66E east @ MM 60.800,1530,1.0
+335,Road Construction,2019-05-20 09:00:00,2019-05-20 11:25:00,I-66W west @ MM 59.200,145,
+336,Road Construction,2019-05-20 21:30:00,2019-05-21 04:30:00,I-66W west @ MM 62.600,420,1.0
+337,Construction Work,2019-05-17 22:09:00,2019-05-18 04:10:00,I-66W west @ MM 53.600,361,2.0
+338,Road Maintenance Operations,2019-05-18 11:38:00,2019-05-18 12:10:00,I-66E east @ MM 70.000,32,1.0
+339,Road Maintenance Operations,2019-05-18 21:00:00,2019-05-19 13:15:00,I-66E east @ MM 55.700,975,2.0
+340,Road Maintenance Operations,2019-05-19 20:03:00,2019-05-19 21:50:00,I-66W west @ MM 56.600,107,3.0
+341,Road Maintenance Operations,2019-05-20 10:38:00,2019-05-20 13:35:00,I-66W west @ MM 55.000,177,
+342,Road Construction,2019-05-21 09:11:00,2019-05-21 14:20:00,I-66E east @ MM 65.400,309,1.0
+343,Road Construction,2019-05-21 21:30:00,2019-05-22 02:20:00,I-66W west @ MM 58.400,290,2.0
+344,Road Maintenance Operations,2019-05-20 19:13:00,2019-05-21 02:55:00,I-66W west @ MM 56.600,462,3.0
+345,Road Construction,2019-05-22 09:00:00,2019-05-22 10:35:00,I-66W west @ MM 66.000,95,
+346,Road Construction,2019-05-22 21:30:00,2019-05-23 05:10:00,I-66W west @ MM 58.400,460,2.0
+347,Road Construction,2019-05-22 22:00:00,2019-05-23 05:10:00,I-66E east @ MM 59.100,430,2.0
+348,Road Maintenance Operations,2019-05-21 20:59:00,2019-05-22 04:40:00,I-66W west @ MM 68.200,461,2.0
+349,Road Construction,2019-05-23 09:00:00,2019-05-23 14:10:00,I-66E east @ MM 52.000,310,1.0
+350,Construction Work,2019-05-22 21:33:00,2019-05-23 05:10:00,I-66E east @ MM 57.000,457,1.0
+351,Road Maintenance Operations,2019-05-22 21:38:00,2019-05-22 23:45:00,I-66E east @ MM 71.000,127,1.0
+352,Road Construction,2019-05-28 21:30:00,2019-05-29 05:10:00,I-66W west @ MM 57.600,460,1.0
+353,Road Construction,2019-05-29 08:41:00,2019-05-29 15:40:00,I-66E east @ MM 53.200,419,1.0
+354,Road Construction,2019-05-29 21:00:00,2019-05-30 05:15:00,I-66E east @ MM 54.200,495,2.0
+355,Road Maintenance Operations,2019-05-28 20:45:00,2019-05-28 21:35:00,I-66E east @ MM 59.100,50,2.0
+356,Road Construction,2019-05-30 21:00:00,2019-05-31 02:10:00,I-66E east @ MM 58.300,310,2.0
+357,Road Construction,2019-05-30 21:30:00,2019-05-31 05:20:00,I-66W west @ MM 56.500,470,1.0
+358,Road Maintenance Operations,2019-05-30 23:18:00,2019-05-31 01:45:00,I-66W west @ MM 75.100,147,2.0
+359,Road Maintenance Operations,2019-04-01 06:00:00,2019-04-05 21:10:00,I-66W west @ MM 52.600,6670,
+360,Road Construction,2019-04-01 21:30:00,2019-04-02 03:55:00,I-66E east @ MM 62.400,385,1.0
+361,Road Construction,2019-04-01 21:38:00,2019-04-02 13:25:00,I-66W west @ MM 66.000,947,
+362,Road Construction,2019-04-02 08:40:00,2019-04-02 12:55:00,I-66W west @ MM 62.800,255,2.0
+363,Road Maintenance Operations,2019-04-01 20:11:00,2019-04-02 05:00:00,I-66E east @ MM 69.800,529,2.0
+364,Road Construction,2019-04-02 10:16:00,2019-04-02 14:50:00,I-66E east @ MM 67.900,274,1.0
+365,Road Maintenance Operations,2019-04-02 12:30:00,2019-04-02 15:20:00,I-66E east @ MM 66.100,170,1.0
+366,Road Construction,2019-04-03 09:00:00,2019-04-03 14:40:00,I-66W west @ MM 66.000,340,1.0
+367,Road Construction,2019-04-03 21:30:00,2019-04-04 05:10:00,I-66E east @ MM 60.600,460,1.0
+368,Road Maintenance Operations,2019-04-02 20:49:00,2019-04-02 21:45:00,I-66E east @ MM 62.100,56,1.0
+369,Road Maintenance Operations,2019-04-02 22:04:00,2019-04-03 05:05:00,I-66W west @ MM 75.000,421,2.0
+370,Road Maintenance Operations,2019-04-03 10:02:00,2019-04-03 13:30:00,I-66E east @ MM 67.900,208,1.0
+371,Road Construction,2019-04-04 09:00:00,2019-04-04 13:00:00,I-66W west @ MM 66.000,240,
+372,Construction Work,2019-04-04 00:04:00,2019-04-04 05:15:00,I-66W west @ MM 66.000,311,3.0
+373,Construction Work,2019-04-07 21:30:00,2019-04-07 22:25:00,I-66E east @ MM 67.200,55,2.0
+374,Road Construction,2019-04-08 20:00:00,2019-04-09 02:00:00,I-66W west @ MM 66.000,360,2.0
+375,Road Construction,2019-04-08 21:00:00,2019-04-09 04:40:00,I-66E east @ MM 60.000,460,2.0
+376,Road Construction,2019-04-08 21:30:00,2019-04-09 05:15:00,I-66W west @ MM 64.700,465,1.0
+377,Road Maintenance Operations,2019-04-08 08:39:00,2019-04-08 15:20:00,I-66W west @ MM 68.300,401,1.0
+378,Road Maintenance Operations,2019-04-08 12:17:00,2019-04-08 13:00:00,I-66E east @ MM 68.000,43,2.0
+379,Road Construction,2019-04-09 09:00:00,2019-04-09 13:35:00,I-66W west @ MM 66.000,275,1.0
+380,Road Construction,2019-04-09 22:00:00,2019-04-10 00:10:00,I-66W west @ MM 55.800,130,1.0
+381,Road Construction,2019-04-09 21:00:00,2019-04-10 05:00:00,I-66E east @ MM 60.000,480,2.0
+382,Construction Work,2019-04-08 21:57:00,2019-04-09 04:40:00,I-66W west @ MM 53.000,403,2.0
+383,Bridge Maintenance Operations,2019-04-08 22:47:00,2019-04-09 04:20:00,I-66W west @ MM 75.100,333,2.0
+384,Road Construction,2019-04-10 08:50:00,2019-04-10 14:55:00,I-66W west @ MM 62.600,365,1.0
+385,Road Construction,2019-04-10 09:00:00,2019-04-10 15:50:00,I-66W west @ MM 66.000,410,
+386,Road Construction,2019-04-10 21:00:00,2019-04-11 04:35:00,I-66E east @ MM 62.000,455,3.0
+387,Bridge Maintenance Operations,2019-04-09 21:50:00,2019-04-10 05:10:00,I-66W west @ MM 75.100,440,2.0
+388,Construction Work,2019-04-10 21:30:00,2019-04-11 03:35:00,I-66E east @ MM 67.400,365,2.0
+389,Road Construction,2019-04-11 09:00:00,2019-04-11 14:45:00,I-66W west @ MM 66.000,345,1.0
+390,Road Construction,2019-04-11 08:31:00,2019-04-11 14:00:00,I-66W west @ MM 61.900,329,1.0
+391,Road Construction,2019-04-11 21:00:00,2019-04-12 04:50:00,I-66E east @ MM 58.300,470,2.0
+392,Road Construction,2019-04-11 21:30:00,2019-04-12 04:40:00,I-66W west @ MM 59.800,430,1.0
+393,Road Construction,2019-04-12 00:00:00,2019-04-12 04:00:00,I-66E east @ MM 53.200,240,1.0
+394,Construction Work,2019-04-10 22:35:00,2019-04-11 04:55:00,I-66W west @ MM 75.000,380,1.0
+395,Road Maintenance Operations,2019-04-11 21:00:00,2019-04-12 03:25:00,I-66E east @ MM 62.000,385,1.0
+396,Bridge Maintenance Operations,2019-04-11 21:40:00,2019-04-12 04:55:00,I-66E east @ MM 74.000,435,2.0
+397,Road Construction,2019-04-13 21:00:00,2019-04-14 05:10:00,I-66E east @ MM 57.000,490,3.0
+398,Bridge Maintenance Operations,2019-04-13 22:22:00,2019-04-14 02:55:00,I-66E east @ MM 74.000,273,1.0
+399,Road Maintenance Operations,2019-04-15 19:36:00,2019-04-16 01:15:00,I-66E east @ MM 67.900,339,2.0
+400,Bridge Maintenance Operations,2019-04-16 09:10:00,2019-04-16 15:25:00,I-66E east @ MM 72.000,375,8.0
+401,Road Maintenance Operations,2019-04-16 19:53:00,2019-04-17 05:00:00,I-66W west @ MM 74.100,547,2.0
+402,Road Construction,2019-04-18 09:00:00,2019-04-18 12:35:00,I-66W west @ MM 66.000,215,3.0
+403,Bridge Maintenance Operations,2019-04-22 21:30:00,2019-04-23 05:10:00,I-66E east @ MM 68.300,460,2.0
+404,Road Maintenance Operations,2019-04-17 20:52:00,2019-04-18 03:55:00,I-66W west @ MM 75.000,423,2.0
+405,Road Maintenance Operations,2019-04-17 22:30:00,2019-04-18 03:10:00,I-66E east @ MM 63.600,280,3.0
+406,Road Maintenance Operations,2019-04-18 13:11:00,2019-04-18 14:28:00,I-66E east @ MM 71.300,77,1.0
+407,Road Maintenance Operations,2019-04-18 20:07:00,2019-04-19 04:25:00,I-66W west @ MM 59.600,498,2.0
+408,Road Maintenance Operations,2019-04-18 21:17:00,2019-04-19 03:00:00,I-66W west @ MM 74.000,343,1.0
+409,Bridge Maintenance Operations,2019-04-18 21:44:00,2019-04-19 05:50:00,I-66W west @ MM 75.100,486,2.0
+410,Road Construction,2019-04-22 09:00:00,2019-04-22 14:35:00,I-66W west @ MM 66.000,335,
+411,Road Construction,2019-04-22 09:30:00,2019-04-22 13:55:00,I-66E east @ MM 57.900,265,
+412,Road Construction,2019-04-22 21:30:00,2019-04-23 05:00:00,I-66W west @ MM 56.700,450,3.0
+413,Road Construction,2019-04-23 09:00:00,2019-04-23 13:05:00,I-66W west @ MM 66.000,245,
+414,Road Construction,2019-04-23 09:30:00,2019-04-23 13:05:00,I-66E east @ MM 57.900,215,
+415,Road Construction,2019-04-24 09:00:00,2019-04-24 15:10:00,I-66W west @ MM 66.000,370,
+416,Road Construction,2019-04-24 21:00:00,2019-04-25 04:00:00,I-66E east @ MM 59.400,420,2.0
+417,Bridge Maintenance Operations,2019-04-23 22:10:00,2019-04-24 06:25:00,I-66W west @ MM 75.000,495,1.0
+418,Construction Work,2019-04-23 23:05:00,2019-04-24 00:00:00,I-66W west @ MM 64.000,55,1.0
+419,Road Maintenance Operations,2019-04-24 10:09:00,2019-04-24 15:15:00,I-66W west @ MM 56.600,306,1.0
+420,Road Construction,2019-04-25 08:41:00,2019-04-25 14:00:00,I-66W west @ MM 64.600,319,1.0
+421,Road Construction,2019-04-25 09:00:00,2019-04-25 11:30:00,I-66W west @ MM 66.000,150,
+422,Road Maintenance Operations,2019-04-25 22:55:00,2019-04-26 02:05:00,I-66W west @ MM 74.500,190,2.0
+423,Road Construction,2019-04-27 21:00:00,2019-04-28 05:50:00,I-66W west @ MM 57.200,530,3.0
+424,Road Maintenance Operations,2019-04-30 21:30:00,2019-05-01 05:05:00,I-66E east @ MM 67.900,455,4.0
+425,Road Construction,2019-04-30 09:00:00,2019-04-30 14:20:00,I-66W west @ MM 66.000,320,1.0
+426,Road Construction,2019-04-30 21:30:00,2019-05-01 05:05:00,I-66W west @ MM 54.900,455,3.0
+427,Construction Work,2019-04-29 21:18:00,2019-04-30 02:35:00,I-66E east @ MM 71.000,317,1.0
+428,Road Maintenance Operations,2019-04-29 22:36:00,2019-04-30 04:50:00,I-66W west @ MM 75.100,374,2.0
+429,Road Construction,2019-06-01 22:00:00,2019-06-02 05:05:00,I-66E east @ MM 58.300,425,3.0
+430,Road Construction,2019-06-03 09:30:00,2019-06-03 15:20:00,I-66E east @ MM 53.200,350,1.0
+431,Road Maintenance Operations,2019-06-01 07:06:00,2019-06-01 09:15:00,I-66W west @ MM 67.000,129,1.0
+432,Road Maintenance Operations,2019-06-02 21:30:00,2019-06-03 04:10:00,I-66E east @ MM 74.000,400,1.0
+433,Road Maintenance Operations,2019-06-03 20:43:00,2019-06-03 22:45:00,I-66W west @ MM 58.000,122,2.0
+434,Road Maintenance Operations,2019-06-03 20:46:00,2019-06-04 00:55:00,I-66W west @ MM 55.400,249,6.0
+435,Road Maintenance Operations,2019-06-04 15:38:00,2019-06-05 04:00:00,I-66E east @ MM 58.500,742,12.0
+436,Road Construction,2019-06-04 16:32:00,2019-06-05 03:00:00,I-66E east @ MM 67.900,628,4.0
+437,Road Marking Operations,2019-06-04 20:24:00,2019-06-05 05:55:00,I-66E east @ MM 67.000,571,2.0
+438,Road Maintenance Operations,2019-06-04 21:30:00,2019-06-05 05:55:00,I-66E east @ MM 74.000,505,1.0
+439,Bridge Maintenance Operations,2019-06-04 21:38:00,2019-06-05 02:50:00,I-66W west @ MM 75.100,312,1.0
+440,Road Construction,2019-06-05 22:05:00,2019-06-07 05:10:00,I-66E east @ MM 64.500,1865,2.0
+441,Road Maintenance Operations,2019-06-05 23:11:00,2019-06-06 03:20:00,I-66W west @ MM 75.100,249,1.0
+442,Road Maintenance Operations,2019-06-06 21:09:00,2019-06-06 22:00:00,I-66E east @ MM 72.000,51,1.0
+443,Road Construction,2019-06-09 22:13:00,2019-06-10 04:50:00,I-66W west @ MM 58.400,397,2.0
+444,Road Maintenance Operations,2019-06-08 15:22:00,2019-06-09 23:25:00,I-66W west @ MM 75.100,1923,4.0
+445,Road Construction,2019-06-11 21:00:00,2019-06-11 23:10:00,I-66E east @ MM 60.700,130,1.0
+446,Road Construction,2019-06-11 21:30:00,2019-06-12 01:55:00,I-66W west @ MM 64.500,265,1.0
+447,Road Construction,2019-06-11 20:30:00,2019-06-12 04:15:00,I-66W west @ MM 58.400,465,2.0
+448,Road Maintenance Operations,2019-06-10 21:00:00,2019-06-11 05:15:00,I-66E east @ MM 74.000,495,1.0
+449,Road Construction,2019-06-12 10:00:00,2019-06-12 15:35:00,I-66E east @ MM 63.000,335,1.0
+450,Road Construction,2019-06-12 08:35:00,2019-06-12 15:35:00,I-66E east @ MM 53.200,420,1.0
+451,Road Construction,2019-06-12 21:30:00,2019-06-12 23:15:00,I-66W west @ MM 61.800,105,1.0
+452,Road Construction,2019-06-12 21:00:00,2019-06-12 23:15:00,I-66E east @ MM 60.700,135,1.0
+453,Construction Work,2019-06-12 15:44:00,2019-06-13 04:30:00,I-66W west @ MM 74.600,766,1.0
+454,Road Maintenance Operations,2019-06-12 16:01:00,2019-06-15 06:05:00,I-66W west @ MM 75.100,3724,2.0
+455,Road Maintenance Operations,2019-06-12 21:30:00,2019-06-13 05:25:00,I-66E east @ MM 74.000,475,1.0
+456,Road Construction,2019-06-16 21:30:00,2019-06-20 15:35:00,I-66E east @ MM 67.400,5405,1.0
+457,Construction Work,2019-06-13 21:18:00,2019-06-14 06:05:00,I-66W west @ MM 74.400,527,2.0
+458,Paving Operations,2019-06-13 21:20:00,2019-06-14 06:10:00,I-66E east @ MM 74.000,530,1.0
+459,Road Maintenance Operations,2019-06-14 12:00:00,2019-06-14 13:00:00,I-66E east @ MM 68.200,60,1.0
+460,Road Construction,2019-06-18 21:00:00,2019-06-18 23:50:00,I-66E east @ MM 56.000,170,1.0
+461,Road Maintenance Operations,2019-06-18 00:14:00,2019-06-18 02:05:00,I-66E east @ MM 54.200,111,3.0
+462,Bridge Maintenance Operations,2019-06-18 22:28:00,2019-06-19 04:55:00,I-66E east @ MM 74.000,387,1.0
+463,Road Construction,2019-06-20 09:00:00,2019-06-20 12:15:00,I-66W west @ MM 66.000,195,
+464,Bridge Maintenance Operations,2019-06-25 07:15:00,2019-06-25 14:55:00,I-66E east @ MM 60.100,460,2.0
+465,Road Construction,2019-06-20 21:00:00,2019-06-21 05:20:00,I-66E east @ MM 54.600,500,2.0
+466,Road Construction,2019-06-24 09:00:00,2019-06-24 15:05:00,I-66E east @ MM 65.700,365,1.0
+467,Road Construction,2019-06-24 21:00:00,2019-06-25 05:15:00,I-66W west @ MM 63.300,495,2.0
+468,Road Maintenance Operations,2019-06-21 21:30:00,2019-06-22 05:00:00,I-66W west @ MM 53.000,450,2.0
+469,Paving Operations,2019-06-21 21:32:00,2019-06-22 04:40:00,I-66E east @ MM 74.000,428,2.0
+470,Road Construction,2019-06-25 09:00:00,2019-06-25 09:35:00,I-66W west @ MM 66.000,35,
+471,Road Construction,2019-06-25 21:30:00,2019-06-26 05:15:00,I-66W west @ MM 64.500,465,1.0
+472,Construction Work,2019-06-26 02:37:00,2019-06-26 05:15:00,I-66W west @ MM 66.000,158,2.0
+473,Road Construction,2019-06-27 08:52:00,2019-06-27 12:30:00,I-66W west @ MM 66.000,218,
+474,Road Construction,2019-06-27 11:00:00,2019-06-27 14:40:00,I-66E east @ MM 62.600,220,1.0
+475,Utility Work,2019-06-26 22:15:00,2019-06-27 02:15:00,I-66W west @ MM 75.000,240,1.0
+476,Bridge Maintenance Operations,2019-06-27 09:44:00,2019-06-27 15:50:00,I-66E east @ MM 59.900,366,3.0
+477,Construction Work,2019-02-04 09:30:00,2019-02-04 15:15:00,VA-7W west @ MM 53.600,345,2.0
+478,Construction Work,2019-02-05 09:30:00,2019-02-05 15:05:00,VA-7W west @ MM 53.600,335,2.0
+479,Construction Work,2019-02-06 09:30:00,2019-02-06 15:05:00,VA-7W west @ MM 53.600,335,2.0
+480,Construction Work,2019-02-07 09:15:00,2019-02-07 15:00:00,VA-7W west @ MM 53.600,345,2.0
+481,Construction Work,2019-02-08 09:30:00,2019-02-08 14:00:00,VA-7W west @ MM 53.600,270,2.0
+482,Road Construction,2019-02-05 09:30:00,2019-02-05 15:10:00,VA-7W west @ MM 42.600,340,8.0
+483,Construction Work,2019-02-12 09:30:00,2019-02-12 10:25:00,VA-7W west @ MM 53.600,55,2.0
+484,Construction Work,2019-02-13 09:30:00,2019-02-13 15:10:00,VA-7W west @ MM 53.600,340,2.0
+485,Construction Work,2019-02-14 09:30:00,2019-02-14 15:05:00,VA-7W west @ MM 53.600,335,2.0
+486,Construction Work,2019-02-15 09:30:00,2019-02-15 12:10:00,VA-7W west @ MM 53.600,160,2.0
+487,Construction Work,2019-02-18 09:30:00,2019-02-18 15:05:00,VA-7W west @ MM 53.600,335,2.0
+488,Construction Work,2019-02-19 09:30:00,2019-02-19 15:10:00,VA-7W west @ MM 53.600,340,2.0
+489,Construction Work,2019-02-20 09:30:00,2019-02-20 10:55:00,VA-7W west @ MM 53.600,85,2.0
+490,Construction Work,2019-02-21 09:19:00,2019-02-21 14:50:00,VA-7W west @ MM 53.600,331,2.0
+491,Construction Work,2019-02-22 09:30:00,2019-02-22 14:05:00,VA-7W west @ MM 53.600,275,2.0
+492,Construction Work,2019-02-19 12:45:00,2019-02-19 15:10:00,VA-7W west @ MM 53.600,145,2.0
+493,Construction Work,2019-02-27 09:40:00,2019-02-27 14:55:00,VA-7E east @ MM 53.600,315,2.0
+494,Road Construction,2019-02-28 10:19:00,2019-02-28 15:35:00,VA-7W west @ MM 59.800,316,2.0
+495,Construction Work,2019-03-04 09:30:00,2019-03-04 14:55:00,VA-7W west @ MM 53.600,325,4.0
+496,Construction Work,2019-03-05 09:30:00,2019-03-05 15:05:00,VA-7W west @ MM 53.600,335,2.0
+497,Construction Work,2019-03-06 09:30:00,2019-03-06 15:05:00,VA-7W west @ MM 53.600,335,2.0
+498,Construction Work,2019-03-07 09:18:00,2019-03-07 14:40:00,VA-7W west @ MM 53.600,322,2.0
+499,Construction Work,2019-03-08 09:30:00,2019-03-08 13:40:00,VA-7W west @ MM 53.600,250,2.0
+500,Road Maintenance Operations,2019-03-18 09:20:00,2019-03-18 14:55:00,VA-7W west @ MM 53.600,335,2.0
+501,Road Construction,2019-03-19 09:44:00,2019-03-19 14:55:00,VA-7W west @ MM 53.600,311,2.0
+502,Road Maintenance Operations,2019-01-03 09:14:00,2019-01-03 15:05:00,VA-7E east @ MM 49.700,351,2.0
+503,Road Construction,2019-01-08 10:00:00,2019-01-08 15:15:00,VA-7E east @ MM 41.400,315,2.0
+504,Road Construction,2019-01-09 10:18:00,2019-01-09 15:10:00,VA-7W west @ MM 41.400,292,4.0
+505,Construction Work,2019-01-14 09:30:00,2019-01-15 15:10:00,VA-7W west @ MM 53.600,1780,2.0
+506,Construction Work,2019-01-18 09:30:00,2019-01-18 10:15:00,VA-7W west @ MM 53.600,45,2.0
+507,Road Construction,2019-01-16 09:30:00,2019-01-16 15:05:00,VA-7E east @ MM 42.300,335,2.0
+508,Construction Work,2019-01-21 09:30:00,2019-01-21 22:15:00,VA-7W west @ MM 53.600,765,2.0
+509,Construction Work,2019-01-25 09:30:00,2019-01-25 14:05:00,VA-7W west @ MM 53.600,275,2.0
+510,Road Maintenance Operations,2019-01-17 09:47:00,2019-01-17 14:05:00,VA-7E east @ MM 52.700,258,2.0
+511,Road Maintenance Operations,2019-01-17 10:57:00,2019-01-17 13:00:00,VA-7E east @ MM 51.300,123,4.0
+512,Road Construction,2019-01-17 11:07:00,2019-01-17 15:10:00,VA-7W west @ MM 42.600,243,4.0
+513,Road Construction,2019-01-18 10:26:00,2019-01-18 14:20:00,VA-7E east @ MM 41.400,234,4.0
+514,Road Construction,2019-01-19 09:45:00,2019-01-19 14:30:00,VA-7W west @ MM 41.400,285,2.0
+515,Road Construction,2019-01-22 10:07:00,2019-01-22 15:00:00,VA-7W west @ MM 42.600,293,4.0
+516,Construction Work,2019-01-22 12:15:00,2019-01-22 15:00:00,VA-7W west @ MM 53.600,165,2.0
+517,Construction Work,2019-01-28 09:30:00,2019-01-28 15:15:00,VA-7W west @ MM 53.600,345,2.0
+518,Construction Work,2019-01-29 09:30:00,2019-01-29 14:32:00,VA-7W west @ MM 53.600,302,2.0
+519,Construction Work,2019-01-31 09:30:00,2019-01-31 15:10:00,VA-7W west @ MM 53.600,340,2.0
+520,Construction Work,2019-01-31 10:19:00,2019-02-01 15:45:00,VA-7W west @ MM 53.600,1766,2.0
+521,Road Construction,2019-01-30 09:30:00,2019-01-30 15:05:00,VA-7W west @ MM 41.400,335,2.0
+522,Road Construction,2019-01-31 10:14:00,2019-01-31 16:05:00,VA-7W west @ MM 42.600,351,4.0
+523,Construction Work,2019-05-01 09:30:00,2019-05-01 14:35:00,VA-7W west @ MM 58.500,305,2.0
+524,Construction Work,2019-05-03 09:30:00,2019-05-03 14:20:00,VA-7W west @ MM 58.500,290,2.0
+525,Construction Work,2019-05-17 22:00:00,2019-05-18 11:40:00,VA-7W west @ MM 53.600,820,2.0
+526,Construction Work,2019-05-07 22:00:00,2019-05-19 08:40:00,VA-7W west @ MM 53.600,16480,2.0
+527,Construction Work,2019-05-19 22:00:00,2019-05-20 05:05:00,VA-7W west @ MM 53.600,425,2.0
+528,Construction Work,2019-05-13 09:30:00,2019-05-13 10:00:00,VA-7W west @ MM 53.600,30,2.0
+529,Construction Work,2019-05-14 09:30:00,2019-05-14 15:25:00,VA-7W west @ MM 53.600,355,2.0
+530,Construction Work,2019-05-15 09:30:00,2019-05-15 15:05:00,VA-7W west @ MM 53.600,335,2.0
+531,Construction Work,2019-05-16 09:30:00,2019-05-16 15:15:00,VA-7W west @ MM 53.600,345,2.0
+532,Construction Work,2019-05-21 09:30:00,2019-05-21 15:10:00,VA-7W west @ MM 53.600,340,2.0
+533,Construction Work,2019-05-22 09:30:00,2019-05-22 15:20:00,VA-7W west @ MM 53.600,350,2.0
+534,Construction Work,2019-05-23 09:30:00,2019-05-23 15:35:00,VA-7W west @ MM 53.600,365,2.0
+535,Road Construction,2019-05-20 09:24:00,2019-05-20 15:15:00,VA-7E east @ MM 52.000,351,1.0
+536,Construction Work,2019-05-29 10:22:00,2019-05-29 15:30:00,VA-7W west @ MM 53.600,308,2.0
+537,Construction Work,2019-05-29 09:30:00,2019-05-29 10:25:00,VA-7E east @ MM 52.700,55,2.0
+538,Construction Work,2019-05-30 09:30:00,2019-05-30 15:10:00,VA-7W west @ MM 53.600,340,2.0
+539,Construction Work,2019-05-31 09:30:00,2019-05-31 14:35:00,VA-7W west @ MM 53.600,305,2.0
+540,Construction Work,2019-04-02 09:22:00,2019-04-02 15:00:00,VA-7E east @ MM 52.700,338,4.0
+541,Road Maintenance Operations,2019-04-10 09:30:00,2019-04-10 14:55:00,VA-7W west @ MM 53.600,325,1.0
+542,Construction Work,2019-04-12 09:19:00,2019-04-12 15:05:00,VA-7W west @ MM 53.600,346,2.0
+543,Construction Work,2019-04-24 09:45:00,2019-04-24 15:20:00,VA-7E east @ MM 56.900,335,2.0
+544,Construction Work,2019-04-29 09:30:00,2019-04-29 15:20:00,VA-7W west @ MM 58.500,350,2.0
+545,Construction Work,2019-04-30 09:30:00,2019-04-30 15:15:00,VA-7W west @ MM 58.500,345,2.0
+546,Construction Work,2019-04-25 09:30:00,2019-04-25 15:35:00,VA-7E east @ MM 56.900,365,2.0
+547,Construction Work,2019-06-04 09:30:00,2019-06-04 15:25:00,VA-7W west @ MM 53.600,355,2.0
+548,Construction Work,2019-06-05 09:30:00,2019-06-05 15:25:00,VA-7W west @ MM 53.600,355,2.0
+549,Construction Work,2019-06-06 09:30:00,2019-06-06 14:50:00,VA-7W west @ MM 53.600,320,2.0
+550,Construction Work,2019-06-07 09:30:00,2019-06-07 10:35:00,VA-7W west @ MM 53.600,65,2.0
+551,Road Maintenance Operations,2019-06-03 10:02:00,2019-06-03 12:50:00,VA-7E east @ MM 41.400,168,1.0
+552,Road Maintenance Operations,2019-06-06 09:12:00,2019-06-07 14:30:00,VA-7E east @ MM 59.700,1758,1.0
+553,Construction Work,2019-06-11 09:30:00,2019-06-11 10:10:00,VA-7W west @ MM 53.600,40,2.0
+554,Construction Work,2019-06-12 09:05:00,2019-06-12 15:10:00,VA-7W west @ MM 53.600,365,2.0
+555,Construction Work,2019-06-13 09:00:00,2019-06-13 09:35:00,VA-7E east @ MM 52.700,35,2.0
+556,Construction Work,2019-06-14 09:30:00,2019-06-14 14:35:00,VA-7W west @ MM 53.600,305,2.0
+557,Road Maintenance Operations,2019-06-06 13:33:00,2019-06-06 15:45:00,VA-7W west @ MM 41.400,132,1.0
+558,Road Maintenance Operations,2019-06-07 08:38:00,2019-06-07 15:50:00,VA-7W west @ MM 41.400,432,1.0
+559,Construction Work,2019-06-17 09:29:00,2019-06-17 15:10:00,VA-7W west @ MM 53.600,341,2.0
+560,Construction Work,2019-06-18 09:30:00,2019-06-18 10:00:00,VA-7W west @ MM 53.600,30,2.0
+561,Construction Work,2019-06-19 09:30:00,2019-06-19 15:20:00,VA-7W west @ MM 53.600,350,2.0
+562,Construction Work,2019-06-20 08:43:00,2019-06-20 15:35:00,VA-7W west @ MM 58.600,412,2.0
+563,Construction Work,2019-06-21 09:30:00,2019-06-21 14:20:00,VA-7W west @ MM 53.600,290,2.0
+564,Construction Work,2019-06-18 00:22:00,2019-06-18 05:15:00,VA-7E east @ MM 49.700,293,2.0
+565,Road Construction,2019-06-18 09:58:00,2019-06-18 15:25:00,VA-7W west @ MM 54.300,327,6.0
+566,Road Construction,2019-06-19 09:29:00,2019-06-19 14:50:00,VA-7W west @ MM 53.000,321,1.0
+567,Construction Work,2019-06-24 09:30:00,2019-06-24 15:00:00,VA-7W west @ MM 53.600,330,2.0
+568,Construction Work,2019-06-27 09:30:00,2019-06-27 15:00:00,VA-7W west @ MM 53.600,330,2.0
+569,Construction Work,2019-06-28 09:30:00,2019-06-28 14:00:00,VA-7W west @ MM 53.600,270,2.0
