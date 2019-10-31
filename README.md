@@ -14,3 +14,7 @@ https://trafficview.org/traffic_cameras/#12/38.9314/-77.2715
 
 Currently in a data mining stage, in the future will be used to model a variety of algorithms
 
+Raw_dataset:   raw dataset from VDOT, the original dataset
+Picture:    Various diagrams currently under study
+src:   Coding
+Modified_dataSet: some of dataset which modified in this files
